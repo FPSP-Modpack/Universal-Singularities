@@ -34,7 +34,6 @@ item.universalSingularities.general.blackSteel.name=Black Steel Singularity
 item.universalSingularities.general.damascusSteel.name=Damascus Steel Singularity
 item.universalSingularities.general.tricalciumphosphate.name=Tricalcium Phosphate
 item.universalSingularities.general.shadowSteel.name=Shadow Steel Singularity
-item.universalSingularities.general.sulfur.name=Sulfur Singularity
 item.universalSingularities.general.iridium.name=Iridium Singularity
 item.universalSingularities.general.netherstar.name=Nether Star Singularity
 item.universalSingularities.general.platinum.name=Platinum Singularity
@@ -96,6 +95,8 @@ item.universalSingularities.mekanism.refinedObsidian.name=Refined Obsidian Singu
 //Utility
 item.universalSingularities.metallurgy.bitumen.name=Bitumen Singularity
 item.universalSingularities.metallurgy.potash.name=Potash Singularity
+item.universalSingularities.metallurgy.saltpeter.name=Saltpeter Singularity
+item.universalSingularities.metallurgy.sulfur.name=Sulfur Singularity
 //Alloys - Base
 item.universalSingularities.metallurgy.angmallen.name=Angmallen Singularity
 item.universalSingularities.metallurgy.hepatizon.name=Hepatizon Singularity
