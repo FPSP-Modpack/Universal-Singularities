@@ -1,6 +1,6 @@
 //en_US Localization File - Universal Singularities
 //Creator of Localization File: Wealthyturtle
-//Localization File Version: 8.0
+//Localization File Version: 8.6.3
 
 //Contact Wealthyturtle/WanionCane If You Would Like to Volunteer to Create a Localization File for Another Language.
 
@@ -37,7 +37,7 @@ item.universalSingularities.general.shadowSteel.name=Shadow Steel Singularity
 item.universalSingularities.general.iridium.name=Iridium Singularity
 item.universalSingularities.general.netherstar.name=Nether Star Singularity
 item.universalSingularities.general.platinum.name=Platinum Singularity
-item.universalSingularities.general.electrumFlux.name=Fluxed Electrum Singularity
+item.universalSingularities.general.salt.name=Salt Singularity
 item.universalSingularities.general.naquadria.name=Naquadria Singularity
 item.universalSingularities.general.plutonium.name=Plutonium Singularity
 item.universalSingularities.general.desh.name=Desh Singularity
@@ -80,6 +80,7 @@ item.universalSingularities.extraPlanets.whiteGem.name=White Gem Singularity
 //ExtraTiC
 item.universalSingularities.extraTiC.fairy.name=Fairy Singularity
 item.universalSingularities.extraTiC.pokefennium.name=Pokefennium Singularity
+item.universalSingularities.extraTiC.red_aurum.name=RedAurum Singularity
 //ExtraTiC
 
 //Extra Utilities
@@ -120,6 +121,7 @@ item.universalSingularities.projectRed.electrotine.name=Electrotine Singularity
 //ProjectRed
 
 //Redstone Arsenal
+item.universalSingularities.redstoneArsenal.electrumFlux.name=Fluxed Electrum Singularity
 item.universalSingularities.redstoneArsenal.crystalFlux.name=Flux Crystal Singularity
 //Redstone Arsenal
 
@@ -131,10 +133,5 @@ item.universalSingularities.tinkersConstruct.cobalt.name=Cobalt Singularity
 item.universalSingularities.tinkersConstruct.ender.name=Ender Singularity
 item.universalSingularities.tinkersConstruct.glue.name=Glue Singularity
 item.universalSingularities.tinkersConstruct.manyullyn.name=Manyullyn Singularity
-//item.universalSingularities.tinkersConstruct.pigIron.name=Pig Iron Singularity
+item.universalSingularities.tinkersConstruct.pigIron.name=Pig Iron Singularity
 //Tinkers' Construct
-
-/*Removed
- * item.universalSingularities.general.salt.name=Salt Singularity
- * item.universalSingularities.extraTiC.red_aurum.name=RedAurum Singularity
- */
