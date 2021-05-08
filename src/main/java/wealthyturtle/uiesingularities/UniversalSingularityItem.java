@@ -4,6 +4,8 @@ import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import fox.spiteful.avaritia.items.ItemSingularity;
 import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.item.EnumRarity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.MathHelper;
@@ -50,5 +52,20 @@ public final class UniversalSingularityItem extends ItemSingularity
 	{
 		for (int i = 0; i < universalSingularities.size(); i++)
 			list.add(new ItemStack(item, 1, i));
+	}
+	
+	@Override
+	public void addInformation(ItemStack item, EntityPlayer player, List tooltip, boolean f3_h) {
+		// NO-OP
+	}
+	
+	@Override
+	public EnumRarity getRarity(ItemStack stack) {
+		return EnumRarity.uncommon;
+	}
+	
+	@Override
+	public int getHaloSize(ItemStack stack) {
+		return 4;
 	}
 }
